@@ -31,3 +31,37 @@ C:\Documents\C#\..Challenges _ Projects\MiniChallenge_#1_Endpoint_MVC\obj\Debug\
 C:\Documents\C#\..Challenges _ Projects\MiniChallenge_#1_Endpoint_MVC\obj\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.pdb
 C:\Documents\C#\..Challenges _ Projects\MiniChallenge_#1_Endpoint_MVC\obj\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.genruntimeconfig.cache
 C:\Documents\C#\..Challenges _ Projects\MiniChallenge_#1_Endpoint_MVC\obj\Debug\net8.0\ref\MiniChallenge_#1_Endpoint_MVC.dll
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\bin\Debug\net8.0\appsettings.json
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\bin\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.exe
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\bin\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.deps.json
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\bin\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.runtimeconfig.json
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\bin\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.dll
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\bin\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.pdb
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.csproj.AssemblyReference.cache
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.AssemblyInfoInputs.cache
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.AssemblyInfo.cs
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.sourcelink.json
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\staticwebassets\msbuild.MiniChallenge_#1_Endpoint_MVC.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\staticwebassets\msbuild.build.MiniChallenge_#1_Endpoint_MVC.props
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MiniChallenge_#1_Endpoint_MVC.props
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MiniChallenge_#1_Endpoint_MVC.props
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\scopedcss\bundle\MiniChallenge_#1_Endpoint_MVC.styles.css
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\MiniChal.C0B9705C.Up2Date
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.dll
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\refint\MiniChallenge_#1_Endpoint_MVC.dll
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.pdb
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\MiniChallenge_#1_Endpoint_MVC.genruntimeconfig.cache
+C:\Users\Owner\OneDrive\CodeStack\Level2\TestingOthers\AaronPerez\MiniChallenge_1_Endpoint_MVC\MiniChallenge_-1_Endpoint_MVC\obj\Debug\net8.0\ref\MiniChallenge_#1_Endpoint_MVC.dll

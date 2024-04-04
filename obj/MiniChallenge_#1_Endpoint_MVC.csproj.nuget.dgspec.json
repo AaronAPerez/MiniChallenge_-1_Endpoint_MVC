@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Documents\\C#\\..Challenges _ Projects\\MiniChallenge_#1_Endpoint_MVC\\MiniChallenge_#1_Endpoint_MVC.csproj": {}
+    "C:\\Users\\Owner\\OneDrive\\CodeStack\\Level2\\TestingOthers\\AaronPerez\\MiniChallenge_1_Endpoint_MVC\\MiniChallenge_-1_Endpoint_MVC\\MiniChallenge_#1_Endpoint_MVC.csproj": {}
   },
   "projects": {
-    "C:\\Documents\\C#\\..Challenges _ Projects\\MiniChallenge_#1_Endpoint_MVC\\MiniChallenge_#1_Endpoint_MVC.csproj": {
+    "C:\\Users\\Owner\\OneDrive\\CodeStack\\Level2\\TestingOthers\\AaronPerez\\MiniChallenge_1_Endpoint_MVC\\MiniChallenge_-1_Endpoint_MVC\\MiniChallenge_#1_Endpoint_MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Documents\\C#\\..Challenges _ Projects\\MiniChallenge_#1_Endpoint_MVC\\MiniChallenge_#1_Endpoint_MVC.csproj",
+        "projectUniqueName": "C:\\Users\\Owner\\OneDrive\\CodeStack\\Level2\\TestingOthers\\AaronPerez\\MiniChallenge_1_Endpoint_MVC\\MiniChallenge_-1_Endpoint_MVC\\MiniChallenge_#1_Endpoint_MVC.csproj",
         "projectName": "MiniChallenge_#1_Endpoint_MVC",
-        "projectPath": "C:\\Documents\\C#\\..Challenges _ Projects\\MiniChallenge_#1_Endpoint_MVC\\MiniChallenge_#1_Endpoint_MVC.csproj",
-        "packagesPath": "C:\\Users\\aaper\\.nuget\\packages\\",
-        "outputPath": "C:\\Documents\\C#\\..Challenges _ Projects\\MiniChallenge_#1_Endpoint_MVC\\obj\\",
+        "projectPath": "C:\\Users\\Owner\\OneDrive\\CodeStack\\Level2\\TestingOthers\\AaronPerez\\MiniChallenge_1_Endpoint_MVC\\MiniChallenge_-1_Endpoint_MVC\\MiniChallenge_#1_Endpoint_MVC.csproj",
+        "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Owner\\OneDrive\\CodeStack\\Level2\\TestingOthers\\AaronPerez\\MiniChallenge_1_Endpoint_MVC\\MiniChallenge_-1_Endpoint_MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\aaper\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Owner\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
